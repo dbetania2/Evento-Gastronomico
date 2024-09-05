@@ -4,7 +4,7 @@ import ar.com.eventogastronomico.services.EventoServicio;
 import ar.com.eventogastronomico.services.ExcepcionesServicio;
 import ar.com.eventogastronomico.services.FechaServicio;
 import ar.com.eventogastronomico.services.ParticipanteServicio;
-import ar.com.eventogastronomico.model.Participante;  // Asegúrate de tener esta importación
+import ar.com.eventogastronomico.model.Participante;  
 
 import java.util.Scanner;
 
